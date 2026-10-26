@@ -41,4 +41,4 @@ flowchart LR
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/tushar-yadav-ai) · [Email](mailto:YOUR_EMAIL_HERE)
+[LinkedIn](https://www.linkedin.com/in/tushar-yadav-ai) · [Email](tusharyadav61900@gmail.com)
