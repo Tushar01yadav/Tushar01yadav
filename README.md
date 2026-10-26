@@ -67,26 +67,30 @@ flowchart LR
 | 📄 [**RAG-Based-PDF-Summarizer-QA-Chatbot**](https://github.com/Tushar01yadav/RAG-Based-PDF-Summarizer-QA-Chatbot) | PDF summarization and Q&A using retrieval-augmented generation |
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Languages & Backend**
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
 **Data & Infra**
 
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
 
 **AI & Automation**
 
+<p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-
+</p>
 ---
 
 ## 📫 Let's connect
