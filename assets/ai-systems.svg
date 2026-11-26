@@ -1,1 +1,55 @@
 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290">
+  <rect width="900" height="290" rx="14" fill="#0d1117"/>
+
+  <!-- AI BRAIN -->
+  <rect x="8" y="8" width="884" height="76" rx="10"
+        fill="#172554" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="450" y="39" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="22"
+        font-weight="bold" fill="#ffffff">🧠 AI BRAIN</text>
+  <text x="450" y="62" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#bfdbfe">Central intelligence</text>
+
+  <!-- RAG -->
+  <rect x="8" y="94" width="436" height="88" rx="10"
+        fill="#312e81" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="226" y="130" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="21"
+        font-weight="bold" fill="#ffffff">📚 RAG</text>
+  <text x="226" y="153" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#ddd6fe">Knowledge retrieval</text>
+
+  <!-- LLMs -->
+  <rect x="456" y="94" width="436" height="88" rx="10"
+        fill="#164e63" stroke="#06b6d4" stroke-width="1.5"/>
+  <text x="674" y="130" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="21"
+        font-weight="bold" fill="#ffffff">🤖 LLMs</text>
+  <text x="674" y="153" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#cffafe">Model providers</text>
+
+  <!-- Agents -->
+  <rect x="8" y="192" width="436" height="88" rx="10"
+        fill="#14532d" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="226" y="228" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="21"
+        font-weight="bold" fill="#ffffff">⚡ Agents</text>
+  <text x="226" y="251" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#bbf7d0">AI applications</text>
+
+  <!-- Infrastructure -->
+  <rect x="456" y="192" width="436" height="88" rx="10"
+        fill="#3f3f46" stroke="#a1a1aa" stroke-width="1.5"/>
+  <text x="674" y="228" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="21"
+        font-weight="bold" fill="#ffffff">🗄️ Infrastructure</text>
+  <text x="674" y="251" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#e4e4e7">DB · Cache · Monitoring</text>
+</svg>
