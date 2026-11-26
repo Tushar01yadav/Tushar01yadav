@@ -32,34 +32,9 @@ Currently working as an **AI Associate, Founder's Office @ COG Culture**, where 
 
 ## 🧠 How I Build AI Systems
 
-<table width="100%" cellspacing="8" cellpadding="8" border="0">
-  <tr>
-    <td colspan="2" align="center" bgcolor="#172554">
-      <h3>🧠 AI BRAIN</h3>
-      <sub>Central intelligence</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" bgcolor="#312E81">
-      <h3>📚 RAG</h3>
-      <sub>Knowledge retrieval</sub>
-    </td>
-    <td width="50%" align="center" bgcolor="#164E63">
-      <h3>🤖 LLMs</h3>
-      <sub>Model providers</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" bgcolor="#14532D">
-      <h3>⚡ Agents</h3>
-      <sub>AI applications</sub>
-    </td>
-    <td width="50%" align="center" bgcolor="#3F3F46">
-      <h3>🗄️ Infrastructure</h3>
-      <sub>DB · Cache · Monitoring</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/ai-systems.svg" width="100%" alt="AI Brain, RAG, LLMs, Agents and Infrastructure" />
+</p>
 
 ### ⚙️ AI System Architecture
 
